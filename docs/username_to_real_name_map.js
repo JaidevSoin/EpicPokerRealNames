@@ -1,6 +1,6 @@
 (function() {
   var usernameToRealNamesMap = {
-    'Jai_': 'Jaidev',
+    'Jai_': 'Jai',
     'PENNOBLUFF69': 'Penno',
     'Nick - Munter': 'Nick',
     'Dazzla': 'Daz',
