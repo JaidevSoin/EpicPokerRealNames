@@ -1,0 +1,16 @@
+{
+  "name": "Real Poker Names",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Real poker names for Epic Poker",
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": true
+  },
+  "permissions": [
+    "https://blockchain.poker/*",
+    "activeTab"
+  ]
+}
