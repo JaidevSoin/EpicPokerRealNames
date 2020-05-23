@@ -1,16 +1,19 @@
 {
-  "name": "Real Poker Names",
+  "name": "Epic Poker Real Names",
   "version": "1.0",
   "manifest_version": 2,
-  "description": "Real poker names for Epic Poker",
+  "description": "Inserts players real names above their user names in the blockchain.poker interface",
   "background": {
     "scripts": [
       "background.js"
     ],
-    "persistent": true
+    "persistent": false
   },
   "permissions": [
     "https://blockchain.poker/*",
     "activeTab"
+  ],
+  "web_accessible_resources": [
+    "add_real_names.js"
   ]
 }

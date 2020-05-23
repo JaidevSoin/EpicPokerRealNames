@@ -1,10 +1,7 @@
-// this is the code which will be injected into a given page...
+var scriptToInject = document.createElement('script');
+scriptToInject.src = chrome.runtime.getURL('add_real_names.js');
+scriptToInject.onload = function() {
+  this.remove();
+};
 
-(function() {
-
-	var realNameScript = document.createElement('script');
-	var random = Math.round(Math.random() * 100000000);
-	realNameScript.setAttribute('src','https://codepen.io/xai_/pen/QWjYzZv.js?random=' + random);
-	document.head.appendChild(realNameScript);
-
-})();
+(document.head || document.documentElement).appendChild(scriptToInject);
