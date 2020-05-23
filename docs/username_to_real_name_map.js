@@ -1,5 +1,5 @@
 (function() {
-  var nameMap = {
+  var usernameToRealNamesMap = {
     'Jai_': 'Jai',
     'PENNOBLUFF69': 'Penno',
     'Nick - Munter': 'Nick',
@@ -12,4 +12,6 @@
     'Tonsils McGee': 'Brad',
     'Weekendpunter': 'Steu'
   }
-})()
+
+  window.startAddRealNamesLoop(usernameToRealNamesMap);
+})();
