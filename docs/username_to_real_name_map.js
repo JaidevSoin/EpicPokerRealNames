@@ -15,5 +15,6 @@ window.usernameToRealNameMap = {
   'Horrorshow': 'Horatio',
   'HjvC': 'Henry',
   'Jaybles2': 'Jesse',
-  'Damo2000': 'Damo'
+  'Damo2000': 'Damo',
+  'Doogsy': 'Dooley'
 }
