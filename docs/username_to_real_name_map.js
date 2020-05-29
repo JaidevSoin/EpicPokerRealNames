@@ -8,6 +8,7 @@ window.usernameToRealNameMap = {
   'Tom_From_Myspace': 'Harry',
   'kiwis R us': 'Rhyse',
   'Da_Saltedest_Sitta': 'Lockie',
+  'Epithelioma310': 'Lockie',
   'Tonsils McGee': 'Brad',
   'Weekendpunter': 'Steu',
   'Kelly Goosecock': 'Bret',
