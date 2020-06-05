@@ -3,7 +3,7 @@ window.usernameToRealNameMap = {
   'PENNOBLUFF69': 'Penno',
   'Nick - Munter': 'Nick',
   'Dazzla': 'Daz',
-  'EatMyShorts91': 'Kramer',
+  'EatMyShorts91': 'Cramer',
   'Shaper000': 'Paula',
   'Tom_From_Myspace': 'Harry',
   'kiwis R us': 'Rhyse',
@@ -17,5 +17,6 @@ window.usernameToRealNameMap = {
   'Jaybles2': 'Jesse',
   'Damo2000': 'Damo',
   'Doogsy': 'Dooley',
-  'Doogs': 'Dooley'
+  'Doogs': 'Dooley',
+  'Melics297': 'Tenzin'
 }
