@@ -2,6 +2,7 @@ window.usernameToRealNameMap = {
   'Jai_': 'Jai',
   'PENNOBLUFF69': 'Penno',
   'Nick - Munter': 'Nick',
+  'That Munter': 'Nick',
   'Dazzla': 'Daz',
   'Dyscrasite284': 'Daz',
   'EatMyShorts91': 'Cramer',
