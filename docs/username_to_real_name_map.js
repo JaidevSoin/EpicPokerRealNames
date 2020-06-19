@@ -7,6 +7,7 @@ window.usernameToRealNameMap = {
   'EatMyShorts91': 'Cramer',
   'Shaper000': 'Paula',
   'Tom_From_Myspace': 'Harry',
+  'AdolfDaHipler': 'Harry',
   'kiwis R us': 'Rhyse',
   'Da_Saltedest_Sitta': 'Lachie',
   'Tonsils McGee': 'Brad',
