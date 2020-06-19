@@ -23,5 +23,5 @@ window.usernameToRealNameMap = {
   'Melics297': 'Tenzin',
   'wayne>m': 'Wayne',
   'Tauhinu': 'Ben',
-  'Krupted': 'Cosy'
+  'Kurupted': 'Cosy'
 }
