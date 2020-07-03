@@ -33,5 +33,6 @@ window.usernameToRealNameMap = {
   'JohnnyEgoFacade': 'Neil',
   'J_kpo': 'Jess',
   'countryVic': 'Lewis',
+  'Oxana': 'Trent',
   'Spaceman76': 'Michael'
 }
