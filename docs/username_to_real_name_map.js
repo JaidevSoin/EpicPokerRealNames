@@ -13,7 +13,7 @@ window.usernameToRealNameMap = {
   'Da_Saltedest_Sitta': 'Lachie',
   'Tonsils McGee': 'Brad',
   'Weekendpunter': 'Steu',
-  'Kelly Goosecock': 'Bret',
+  'Kelly Goosecock': 'Brett',
   'DOWZ4': 'Dowza',
   'Horrorshow': 'Horatiu',
   'GoldenRatio': 'Horatiu',
