@@ -34,6 +34,7 @@ window.usernameToRealNameMap = {
   'Melics297': 'Tenzin',
   'sentient17': 'Tenzin',
   'wayne>m': 'Wayne',
+  '--wayne--': 'Wayne',
   'Tauhinu': 'Ben',
   'Kurupted': 'Cosy',
   'Nonvalidities742': 'Tanners',
