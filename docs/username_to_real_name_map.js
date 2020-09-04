@@ -15,6 +15,7 @@ window.usernameToRealNameMap = {
   'Silly Buggers': 'Rhyse',
   'Da_Saltedest_Sitta': 'Lachie',
   'Kelly_Goose_ Kart': 'Lachie',
+  'Kelly_Grose_ Cock': 'Lachie',
   'Perchery305': 'Lachie',
   'Tonsils McGee': 'Brad',
   'Weekendpunter': 'Steu',
