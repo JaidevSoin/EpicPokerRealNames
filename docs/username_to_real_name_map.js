@@ -13,6 +13,7 @@ window.usernameToRealNameMap = {
   'AdolfDaHipler': 'Harry',
   'DaGuy_Cramer_Hates': 'Harry',
   '$Cod$Money$': 'Harry',
+  '$Cod$Money$': 'AdolfDaCodda',
   'kiwis R us': 'Rhyse',
   'Silly Buggers': 'Rhyse',
   'Da_Saltedest_Sitta': 'Lachie',
@@ -74,5 +75,6 @@ window.usernameToRealNameMap = {
   'Brads_Dad_Sam_2': 'Chris',
   'Brads_Dad_Sam2': 'Chris',
   'Unpunctuated958': 'Chris',
-  'Bugsy3233': 'Chris'
+  'Bugsy3233': 'Chris',
+  'Disturb899': 'Chris'
 }
