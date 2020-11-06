@@ -13,7 +13,7 @@ window.usernameToRealNameMap = {
   'AdolfDaHipler': 'Harry',
   'DaGuy_Cramer_Hates': 'Harry',
   '$Cod$Money$': 'Harry',
-  '$Cod$Money$': 'AdolfDaCodda',
+  'AdolfDaCodda': 'Harry',
   'kiwis R us': 'Rhyse',
   'Silly Buggers': 'Rhyse',
   'Da_Saltedest_Sitta': 'Lachie',
