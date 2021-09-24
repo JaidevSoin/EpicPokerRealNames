@@ -47,6 +47,7 @@ window.usernameToRealNameMap = {
   'wayne>m': 'Wayne',
   '--wayne--': 'Wayne',
   'Phenylalanin956': 'Wayne',
+  'wayne.exe': 'Wayne',
   'Tauhinu': 'Ben',
   'Kurupted': 'Cosy',
   'Nonvalidities742': 'Tanners',
