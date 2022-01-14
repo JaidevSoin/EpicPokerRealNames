@@ -41,6 +41,7 @@ window.usernameToRealNameMap = {
   'Damo2000': 'Damo',
   'Doogsy': 'Dooley',
   'Doogs': 'Dooley',
+  'Ruse403': 'Dooley',
   'Shillyshallying159': 'Dooley',
   'Doogs37': 'Dooley',
   'Melics297': 'Tenzin',
