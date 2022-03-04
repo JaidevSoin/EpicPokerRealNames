@@ -16,6 +16,7 @@ window.usernameToRealNameMap = {
   '$Cod$Money$': 'Harry',
   'AdolfDaCodda': 'Harry',
   'AdolfDaSandyVag': 'Harry',
+  'Admiral352': 'Harry',
   'kiwis R us': 'Rhyse',
   'Silly Buggers': 'Rhyse',
   'Da_Saltedest_Sitta': 'Lachie',
