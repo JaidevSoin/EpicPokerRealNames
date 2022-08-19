@@ -91,5 +91,6 @@ window.usernameToRealNameMap = {
   'H4wk3y': 'Hawkey',
   'Hardnesses413': 'Lewis',
   'wayne.Xnew': 'Wayne',
-  'BeachHippy': 'Kelvyn'
+  'BeachHippy': 'Kelvyn',
+  '50ShadesOfJaybles': 'Jesse'
 }
